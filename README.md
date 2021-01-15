@@ -8,3 +8,6 @@ INSTRUCTIONS:
  * args[0] = path of xml file. ex) "src/test.xml"
  * args[1] = choice of method to execute. (1~5)
  * args[2] = specific key path/key thats is optional to certain methods (2 and 3)
+
+ex) command line : src/test.xml 2 /catalog
+ex) command line : src/test.xml 4
