@@ -4,6 +4,7 @@ Tae Hyun Lee
 INSTRUCTIONS: 
  * Put xml file into src folder.
  * Import json.jar to library
+ * SOURCE CODE : Main.java
  * REQUIRED ARGUMENTS : 
  * args[0] = path of xml file. ex) "src/test.xml"
  * args[1] = choice of method to execute. (1~5)
